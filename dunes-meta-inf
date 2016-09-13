@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">4262825</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">maa.man</entry>
+<entry key="used-plugins"/>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO localhost.fios-router.home 0ad918e7-917a-4624-9541-64a1d6fe1231</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO localhost.fios-router.home 0ad918e7-917a-4624-9541-64a1d6fe1231</entry>
+<entry key="vso-version">7.1.0.4262825</entry>
+<entry key="pkg-id">402881ce5724e494015724ecde840022</entry>
+</properties>
